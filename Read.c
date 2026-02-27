@@ -1,6 +1,3 @@
-//  gcc -no-pie Sum.s Read.c -o lab4
-// ./lab4 data.txt
-
 #include <stdio.h>
 #include <stdlib.h>
 
